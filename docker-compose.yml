@@ -65,5 +65,5 @@ services:
   email:
     image: maildev/maildev
     ports:
-      - "1080:80"
+      - "80:1080"
     restart: unless-stopped
