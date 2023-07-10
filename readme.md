@@ -28,7 +28,7 @@ $ yarn build
 $ yarn start
 ```
 
-` http://localhost:5000 ` にアクセスし、ユーザーを追加する
+` http://localhost:8080 ` にアクセスし、ユーザーを追加する
 
 ![invite](invite.png)
 
