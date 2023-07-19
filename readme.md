@@ -12,10 +12,11 @@ $ touch .env
 REDASH_COOKIE_SECRET=hogehoge
 REDASH_MAIL_SERVER=email
 REDASH_MAIL_PORT=1025
+REDASH_HOST=http://localhost:8080
 ```
 
 ```
-$ docker-compose up
+$ docker compose up
 ```
 
 ```
